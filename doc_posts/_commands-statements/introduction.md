@@ -35,7 +35,7 @@ Conditional statements are used to perform different actions based on different 
     Case pink { execute block of commands }
     ```  
     {% include image.html w="75" src="switch.png" alt="Switch Statement" -%}
-    Using Switch statement for multiple conditions is so much easier to read! And if you have a lot of conditions to check, the execution should be also faster.
+    Using Switch statement for multiple conditions is so much easier to read! And if you have a lot of conditions to check, the execution should be also faster. See further down to see more information on Switch statements.
 
 
 
